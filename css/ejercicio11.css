@@ -1,0 +1,24 @@
+#H2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(85, 50, 5);
+  }
+  #text1{
+      font-family: monospace;
+      color: rgb(66, 5, 5);  
+  }
+  #text2{
+      font-family: monospace;
+      color: rgb(15, 14, 97);  
+  }
+  #text3{
+      font-family: monospace;
+      color: #000;  
+  }
+  #container{
+      width: 600px;
+      height: 700px;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: rgb(245, 190, 138);
+  }
+  
